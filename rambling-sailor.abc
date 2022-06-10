@@ -13,7 +13,7 @@ P:A(AB3)4
 K:DMix
 P:A
 %%MIDI program 22
-|: A2 | D2 A2 AFGE  | D2 D2 c3 d  | cABG  A2 GE | D2 D2 z2 :|\
+|: A2 | D2 A2 AFGE  | D2 D2 c3 d  | cABG  A2 GE | D2 D2 z2 :|
 P:B
-   A2 | ABcA  d2 dc | ABcA  d2 d2 | c2 c2 B2 B2 | ABAG  E2 \
+   A2 | ABcA  d2 dc | ABcA  d2 d2 | c2 c2 B2 B2 | ABAG  E2 
    E2 | D2 A2 AFGE  | D2 D2 c3 d  | cABG  A2 GE | D2 D2 z2 ||
