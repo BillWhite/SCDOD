@@ -1,0 +1,21 @@
+X:1
+T:Old Heddon (Berkmo chords)
+C:Trad
+M:4/4
+L:1/8
+%%writefields N               % the N: field is printed out
+%%MIDI program 22
+N: arr. Alison S. 2015-10-28
+K:Edor
+P:A (an A is all eight bars)
+| "Em" B3c d2 B2 | "A" AGFE "D" D2 EF | "Em" G2 B2 "B" BA GF | "Em" E4 E2 z2 :| 
+| "Em" B3c d2 B2 | "A" edcB A2 A2 | "Em" B3c d2 B2 | "A" e2 d2 "B" B4 |
+| "Em" B3c d2 B2 | "A" AGFE "D" D2 EF | "Em" G2 B2 BA "B" GF | "Em" E4 E2 z2 :| 
+
+% Alsison 2015-10-28: haven't had a chance to check with Ingrid, but when we
+% worked together last night there was one tune (Fanny Frail, I think) where we
+% decided we would just have a Melodeon version and a No Melodeon version,
+% depending on who was playing and who was dancing. I don't think this will
+% confuse anyone who is just playing melody, and the chording instruments can
+% choose which one to follow. In short, go ahead and put my version on the
+% website. I can add the Melodeon version later.

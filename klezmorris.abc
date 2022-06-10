@@ -1,0 +1,27 @@
+X:1
+T:Klezmorris
+T:Reb dovidls nign
+C:Traditional
+M:4/4
+L:1/8
+P:(AB3C)2(AB3D)2
+K:Dm
+P:A
+| "D" D_E ^FG AB AG | "D" ^F2 ^FD "Gm" G2 G2| "D" A2 AB cB AG | "D"  ^F2 FD "Gm" G4 |
+"D" D_E ^FG AB AG | "D" ^F2 ^FD "Gm" G2 D2 | "Cm" _E2 _ED CD  _EC | "D" D4 z2 A2 |
+P:B
+"Bb" Bc d2 d2 d2 | "F" cd cA F2 F2  | "F" FG AB cd _ec | "Gm" d2 d_e "D" dc BA  |
+"Gm" GA B2 B2 B2 | "D" AB A^F  D2 D2 | "D"  D_E ^FG AB A^F | "Gm" G4  G4 |
+P:C
+"D" D2 ^F2 D2^F2  | "Gm" G2 G2 cB AG | "D" A2 A2 "Gm" BA BG | "D" A2 d2 d2 z2 |
+"D" D2 ^F2 D2^F2  | "Gm" G2 G2 cB AG | "D" ^F2 D2 "Cm" _ED _EC | "D" D2 C2 D4 |
+P:D
+"Bb" Bc d2 d2 d2 | "F" cd cA F2 F2  | "F" FG AB cd _ec | "Gm" d2 d_e "D" dc BA  |
+"Gm" G2A2 B4 B4 B4 | "D" A2B2 A2^F2  D4 D4 | "D" D_E ^FG AB A^F | "Gm" G4  G4 |
+
+
+%%textfont Times-Italic 12
+%%begintext justify
+
+via PDF Alison's email 2015-10-24
+%%endtext

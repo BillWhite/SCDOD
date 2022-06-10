@@ -1,0 +1,21 @@
+%abc
+X:1
+T:Windlass
+T: (Go and 'List For a Sailor + Go and 'List)
+M:4/4
+C:
+A:
+O:English
+R:Reel
+K:DMix
+P:A
+L:1/4
+%%MIDI program 22
+P:A
+.g g .f f | e/2f/2e/2d/2 B B/2^c/2 | .d d/e/ .f e | .d B .d2 |
+  .e e/f/ g a | b/a/ g a2 | g f/e/ .f d | .e2 .e2 ||
+P:B
+E2 E F | G2 A2 | B2 e2 | B2 B^c | 
+  d2 d2 | d2 F G | A>B A F | D2 B/2A/2G/2F/2
+  E E/2F/2 G A | B e B B/2^c/2 | d F A G/2F/2 | E2 E2 ||
+

@@ -1,0 +1,18 @@
+X:1
+T:Durham Gaol
+M:4/4
+A:Fieldtown
+P:A(AB)4
+K:G
+P:A
+B3/c/ | d4d4 | c>B A>B c4 | B>A G>A B>d c>B | A2 A4  B3/c/ |
+d4d4 |c>B A>B c2 G2 | AA AA Ac BA | G2G4 ||
+P:B
+B>d|e4 d>B G>B |A2A2B2d2 |e2e2d>B G>B|A2F2G4:|
+%%textfont Times-Italic 12
+%%begintext justify
+
+
+
+2015-11-30
+%%endtext
